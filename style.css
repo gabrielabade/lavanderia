@@ -266,7 +266,7 @@ nav {
 
 /* ------ HERO SECTION ------ */
 .hero {
-  background: linear-gradient(rgba(0, 191, 166, 0.8), rgba(0, 150, 136, 0.9)), url('assets/hero-bg.jpg') center/cover no-repeat;
+  background: linear-gradient(rgba(0, 191, 166, 0.8), rgba(0, 150, 136, 0.9)), url('assets/hero-bg.png') center/cover no-repeat;
   color: var(--white);
   padding: 8rem 0;
   text-align: center;
@@ -506,7 +506,7 @@ nav {
 
 /* ------ PROXIMITY SECTION ------ */
 .proximity {
-  background: linear-gradient(rgba(0, 191, 166, 0.8), rgba(0, 150, 136, 0.9)), url('assets/lavanderia-exterior.jpg') center/cover no-repeat;
+  background: linear-gradient(rgba(0, 191, 166, 0.8), rgba(0, 150, 136, 0.9)), url('assets/lavanderia-exterior.png') center/cover no-repeat;
   color: var(--white);
   padding: 6rem 0;
   text-align: center;
